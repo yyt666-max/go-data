@@ -1,4 +1,0 @@
-INSERT INTO "public"."om_metric_statistics_sched" ( "metric_key", "del_flag", "create_by", "create_time", "update_by", "update_time", "remark", "version", "sched_preiod" )
-VALUES
-	( 'TRANSLATION_SIGNUP_SUCCESS_RATE', 0, 'system', '2024-06-11 13:32:47.17372', 
-	'4', '2024-07-23 01:55:28.99', '智能翻译签约成功率周期调度表', 0, 10 );
